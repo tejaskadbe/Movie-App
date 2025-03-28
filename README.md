@@ -11,11 +11,10 @@ Check out the demo:
 
 [Watch on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7205913378295365632)
 
-![image](https://github.com/user-attachments/assets/98ed5741-61d9-4c1c-8138-1d539b57d958)
 
 
-![Image Description](https://github.com/tejaskadbe/Movie-App/blob/main/src/assets/screenshots/Screenshot 2025-03-28%20144630.png)
-![Image Description](https://github.com/tejaskadbe/Movie-App/blob/main/src/assets/screenshots/Screenshot 2025-03-28%20144700.png)
-![Image Description](https://github.com/tejaskadbe/Movie-App/blob/main/src/assets/screenshots/Screenshot 2025-03-28%20144722.png)
-![Image Description](https://github.com/tejaskadbe/Movie-App/blob/main/src/assets/screenshots/Screenshot 2025-03-28%20144737.png)
-![Image Description](https://github.com/tejaskadbe/Movie-App/blob/main/src/assets/screenshots/Screenshot 2025-03-28%20150646.png)
+![Image Description](https://github.com/tejaskadbe/Movie-App/blob/main/src/assets/screenshots/Screenshot%202025-03-28%20144630.png)
+![Image Description](https://github.com/tejaskadbe/Movie-App/blob/main/src/assets/screenshots/Screenshot%202025-03-28%20144700.png)
+![Image Description](https://github.com/tejaskadbe/Movie-App/blob/main/src/assets/screenshots/Screenshot%202025-03-28%20144722.png)
+![Image Description](https://github.com/tejaskadbe/Movie-App/blob/main/src/assets/screenshots/Screenshot%202025-03-28%20144737.png)
+![Image Description](https://github.com/tejaskadbe/Movie-App/blob/main/src/assets/screenshots/Screenshot%202025-03-28%20150646.png)
