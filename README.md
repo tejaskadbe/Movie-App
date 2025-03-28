@@ -1,5 +1,6 @@
 
 [Watch Video](https://github.com/tejaskadbe/Movie-App/blob/main/src/assets/screenshots/React%20Movie%20App.mp4)
+<video src="https://github.com/username/repository/assets/unique-video-id.mp4" controls></video>
 
 # Movie-App
 Welcome to Cinebot, a sleek and modern movie discovery app built with React, Redux Toolkit, and TMDB API. Whether you're searching for the latest blockbusters, top-rated films, or exploring your favorite actors, MovieApp has you covered!
